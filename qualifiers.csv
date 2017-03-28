@@ -1,0 +1,298 @@
+id,name
+1,Long ball
+2,Cross
+3,Head pass
+4,Through ball
+5,Free kick taken
+6,Corner taken
+7,Players caught offside
+8,Goal disallowed
+9,Penalty
+10,Handball
+11,6-seconds violation
+12,Dangerous play
+13,Foul
+14,Last line
+15,Head
+16,Small box-centre
+17,Box-centre
+18,Out of box-centre
+19,35+ centre
+20,Right footed
+21,Other body part
+22,Regular play
+23,Fast break
+24,Set piece
+25,From corner
+26,Free kick
+28,own goal
+29,Assisted
+30,Involved
+31,Yellow Card
+32,Second yellow
+33,Red Card
+34,Referee abuse
+35,Argument
+36,Violent Conduct
+37,Time wasting
+38,Excessive celebration
+39,Crowd interaction
+40,Other reason
+41,Injury
+42,Tactical
+43,Realignment
+44,Player position
+45,Temperature
+46,Conditions
+47,Field Pitch
+48,Lightings
+49,Attendance figure
+50,Official position
+51,Official Id
+53,Injured player id
+54,End cause
+55,Related event ID
+56,Zone
+57,End type
+59,Jersey Number
+60,Small box-right
+61,Small box-left
+62,Box-deep right
+63,Box-right
+64,Box-left
+65,Box-deep left
+66,Out of box-deep right
+67,Out of box-right
+68,Out of box-left
+69,Out of box-deep left
+70,35+ right
+71,35+ left
+72,Left footed
+73,Left
+74,High
+75,Right
+76,Low Left
+77,High Left
+78,Low Centre
+79,High Centre
+80,Low Right
+81,High Right
+82,Blocked
+83,Close Left
+84,Close Right
+85,Close High
+86,Close Left and High
+87,Close Right and High
+88,High claim
+89,1 on 1
+90,Deflected save
+91,Dive and deflect
+92,Catch
+93,Dive and catch
+94,Def block
+95,Back pass
+96,Corner situation
+97,Direct free
+100,Six Yard Blocked
+101,Saved Off Line
+102,Goal Mouth Y Coordinate
+103,Goal Mouth Z Coordinate
+106,Attacking Pass
+107,Throw In
+108,Volley
+109,Overhead
+110,Half Volley
+111,Diving Header
+112,Scramble
+113,Strong
+114,Weak
+115,Rising
+116,Dipping
+117,Lob
+118,One Bounce
+119,Few Bounces
+120,Swerve Left
+121,Swerve Right
+122,Swerve Moving
+123,Keeper Throw
+124,Goal Kick
+127,Direction of Play
+128,Punch
+130,Team Formation
+131,Team Player Formation
+132,Simulation
+133,Deflection
+134,Far Wide Left
+135,Far Wide Right
+136,Keeper Touched
+137,Keeper Saved
+138,Hit Woodwork
+139,Own Player
+140,Pass End X
+141,Pass End Y
+144,Deleted Event Type
+145,Formation slot
+146,Blocked X Coordinate
+147,Blocked Y Coordinate
+152,Direct
+153,Not past goal line
+154,Intentional Assist
+155,Chipped
+156,Lay-off
+157,Launch
+158,Persistent Infringement
+159,Foul and Abusive Language
+160,Throw In set piece
+161,Encroachment
+162,Leaving field
+163,Entering field
+164,Spitting
+165,Professional Foul Last Man
+166,Professional Foul Handball
+167,Out of play
+168,Flick-on
+169,Leading to attempt
+170,Leading to goal
+171,Rescinded Card
+172,No impact on timing
+173,Parried safe
+174,Parried danger
+175,Fingertip
+176,Caught
+177,Collected
+178,Standing
+179,Diving
+180,Stooping
+181,Reaching
+182,Hands
+183,Feet
+184,Dissent
+185,Blocked cross
+186,Scored
+187,Saved
+188,Missed
+189,Not visible
+190,From shot off target
+191,Off the ball foul
+192,Block by hand
+194,Captain
+195,Pull back
+196,Switch of play
+197,Team kit
+198,GK hoof
+199,GK kick from hands
+200,Referee stop
+201,Referee delay
+202,Weather problem
+203,Crowd trouble
+204,Fire
+205,Object thrown on pitch
+206,Spectator on pitch
+207,Awaiting officials decision
+208,Referee injury
+209,Game end
+210,Assist
+211,Overrun
+212,Length
+213,Angle
+214,Big chance
+215,Individual play
+216,2nd related event ID
+217,2nd assisted
+218,2nd assist
+219,Players on both posts
+220,Player on near post
+221,Player on far post
+222,No players on posts
+223,Inswinger
+224,Outswinger
+225,Straight
+226,Suspended
+227,Resume
+228,Own shot blocked
+229,Post match complete
+230,GK X Coordinate
+231,GK Y Coordinate
+232,Unchallenged
+233,Opposite related event ID
+234,Home Team Possession
+235,Away Team Possession
+236,Blocked pass
+237,Low
+238,Fair Play
+239,By Wall
+240,GK Start
+241,Indirect
+242,Obstruction
+243,Unsporting behaviour
+244,Not Retreating
+245,Serious Foul
+246,Drinks Break
+247,Offside
+248,Goal line
+249,Temp_ShotOn
+250,Temp_Blocked
+251,Temp_Post
+252,Temp_Miss
+253,Temp_MissNotPastGoalLine
+254,Follows a Dribble
+255,Open Roof
+256,Air Humidity
+257,Air Pressure
+258,Sold Out
+259,Celsius degrees
+260,Floodlight
+261,1 on 1 chip
+262,Back heel
+263,Direct corner
+264,Aerial Foul
+265,Attempted Tackle
+266,Put Through
+267,Right Arm
+268,Left Arm
+269,Both Arms
+270,Right Leg
+271,Left Leg
+272,Both Legs
+273,Hit Right Post
+274,Hit Left Post
+275,Hit Bar
+276,Out on sideline
+277,Minutes
+278,Tap
+279,Kick Off
+280,Fantasy Assist Type
+281,Fantasy Assisted By
+282,Fantasy Assist Team
+283,Coach ID
+284,Duel
+285,Defensive
+286,Offensive
+287,Over-arm
+288,Out of play secs
+289,Denied goal-scoring opportunity
+290,Coach types
+291,Other Ball Contact Type
+292,Detailed Position Id
+293,Position Side Id
+294,Shove/Push
+295,Shirt Pull/Holding
+296,Elbow/Violent Conduct
+297,Follows Shot Rebound
+298,Follows Shot Blocked
+299,Clock Affecting
+300,Solo Run
+301,Shot from cross
+302,Checks complete
+303,Floodlight failure
+304,Ball In Play
+305,Ball Out of Play
+306,Kit Change
+307,DFL Phase of possession Id
+308,Goes to Extra Time
+309,Goes to Penalties
+310,Player goes out
+311,Player comes back
+312,DFL Phase of possession Start
+313,Illegal Restart
+314,End of Offside
